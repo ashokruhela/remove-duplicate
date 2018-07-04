@@ -1,0 +1,16 @@
+{
+  "name": "remove-duplicate",
+  "version": "1.0.0",
+  "description": "reads a pdf file and removes duplicate entries",
+  "main": "index.js",
+  "dependencies": {
+    "pdfreader": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "ashokruhela",
+  "license": "ISC"
+}
